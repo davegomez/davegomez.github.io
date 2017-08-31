@@ -1,2 +1,1 @@
-# davegomez.github.io
-davegomez.io
+# { davegomez.io }
